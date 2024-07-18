@@ -6,7 +6,7 @@ function Intro() {
     <section className="intro">
       
       <div className="intro-image">
-        <img src="/undraw_happy_news_hxmt.png" alt="Undraw-happy" />
+        <img src="undraw_happy_news_hxmt.png" alt="Undraw-happy" />
       </div>
       <div className="intro-content">
         <h1>Light, Fast & Powerful</h1>

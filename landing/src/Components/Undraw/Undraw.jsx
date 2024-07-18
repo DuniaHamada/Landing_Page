@@ -25,7 +25,7 @@ function Undraw() {
         </div>
       </div>
       <div className="undraw-image">
-        <img src="/undraw_mobile_login_ikmv.png" alt="Undraw" />
+        <img src="undraw_mobile_login_ikmv.png" alt="Undraw" />
       </div>
     </section>
   );

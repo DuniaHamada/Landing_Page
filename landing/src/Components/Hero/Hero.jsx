@@ -17,7 +17,7 @@ function Hero() {
         </div>
       </div>
       <div className="hero-image">
-        <img src="/designer_1.png" alt="Introduction" />
+        <img src="designer_1.png" alt="Introduction" />
       </div>
     </section>
   );
