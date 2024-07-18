@@ -23,11 +23,11 @@ function Footer() {
           <li><a href="#">Contact</a></li>
         </ul>
         <ul className="footer-social">
-        <li><a href="#"><img src="Facebook.png" alt="Facebook" className="social-icon" /></a></li>
+        <li><a href="#"><img src="FaceBook.png" alt="Facebook" className="social-icon" /></a></li>
           <li><a href="#"><img src="Linkedin.png" alt="LinkedIn" className="social-icon" /></a></li>
           <li><a href="#"><img src="X.png" alt="Twitter" className="social-icon" /></a></li>
           <li><a href="#"><img src="YouTube.png" alt="YouTube" className="social-icon" /></a></li>
-          <li><a href="#"><img src="instagram.png" alt="Instagram" className="social-icon" /></a></li>
+          <li><a href="#"><img src="Instagram.png" alt="Instagram" className="social-icon" /></a></li>
         </ul>
       </div>
     </footer>
