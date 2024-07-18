@@ -1,0 +1,72 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+  }
+  
+.pricing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px ;
+    background-color: #e7ecff6f;
+  
+
+  }
+  
+  .pricing-content {
+    max-width: 600px;
+  }
+  
+  .pricing h2 {
+    font-size: 36px;
+    color: #091133;
+    margin: 30px;
+
+  }
+  
+  .pricing p {
+    font-size: 16px;
+    color: #6F7CB2;
+    margin-top: 10px;
+    line-height: 1.6;
+  }
+  
+  .pricing-price h1 {
+    font-size: 50px;
+    color: #222F65;
+  line-height: 66px;
+
+  }
+  
+  .pricing-price p {
+    font-size: 16px;
+    color:  #37447E;
+
+  }
+  .pricing-price{margin: 50px;}
+  
+   
+    .pricingPrice p{
+    color: #5D6970;
+    font-size: 14px;
+    }
+  
+  .btnPrimary_1 {
+    background-color: #111B47;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    padding: 10px 40px;
+  }
+  
+  .btnPrimary_1:hover {
+    background-color: #030339; 
+  }
+  

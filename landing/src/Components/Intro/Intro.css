@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+  }
+  
+  .intro {
+      display: flex;
+      flex-wrap: wrap;
+      padding: 80px 25px;
+      margin: 30px;
+      gap: 50px;
+    }
+    
+    .intro-content {
+      max-width: 40%;
+      padding: 30px 60px;
+    }
+    
+    .intro-content h1 {
+      font-size: 36px;
+      color: #091133;
+    }
+    
+    .intro-content p {
+      font-size: 18px;
+      color:  #505F98;
+      margin-top: 20px;
+      line-height: 1.6;
+    }
+    
+   
+  
+    .intro-image img {
+      max-width: 100%;
+      height:auto;
+      
+margin-left: 160px;
+    }
+    
