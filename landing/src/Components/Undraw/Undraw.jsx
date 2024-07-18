@@ -13,12 +13,12 @@ function Undraw() {
         </p>
         <div className="icons">
           <div className='icon'>
-            <img src='/Icon.svg' alt='icon'/>
+            <img src='Icon.svg' alt='icon'/>
             <h2>Title Goes Here</h2>
             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.  </p>
           </div>
           <div className='icon'>
-          <img src='/Icon.svg' alt='icon'/>
+          <img src='Icon.svg' alt='icon'/>
             <h2>Title Goes Here</h2>
             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.  </p>
             </div>
